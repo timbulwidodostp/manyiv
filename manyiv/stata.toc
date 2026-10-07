@@ -2,4 +2,4 @@
 1
 2
 3
-p xtregbem Between Effects Panel Data Ridge and Weighted Regression Use xtregbem
+p manyiv Many IV regressions (OLS, TSLS, LIML, MBTSLS, JIVE, UJIVE, RTSLS) Use manyiv With STATA 19
