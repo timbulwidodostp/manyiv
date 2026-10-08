@@ -1,6 +1,8 @@
 # manyiv
 Many IV regressions (OLS, TSLS, LIML, MBTSLS, JIVE, UJIVE, RTSLS) Use manyiv With STATA 19
 
+https://www.youtube.com/watch?v=GtncLPPTHjY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
